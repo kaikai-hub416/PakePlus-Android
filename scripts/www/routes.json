@@ -1,0 +1,29 @@
+[
+  {
+    "path": "/"
+  },
+  {
+    "path": "/test"
+  },
+  {
+    "path": "/train-plan"
+  },
+  {
+    "path": "/train-detail"
+  },
+  {
+    "path": "/data"
+  },
+  {
+    "path": "/achieve"
+  },
+  {
+    "path": "/home-family"
+  },
+  {
+    "path": "/guide"
+  },
+  {
+    "path": "/science"
+  }
+]
